@@ -1,25 +1,33 @@
 {
-    "id": 2,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token2.webp",
-    "token_id": "2",
-    "background_color": null,
-    "animation_url": null,
-    "youtube_url": null,
-    "name": "Test zkEVM NFT #2",
-    "description": "This NFT is my second Immutable zkEVM NFT",
-    "external_url": null,
-    "attributes": [
-      {
-        "trait_type": "Hat",
-        "value": "Top Hat"
-      },
-      {
-        "trait_type": "Coat",
-        "value": "Tails"
-      },
-      {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
-      }
-    ]
-  }
+  "id": 1,
+  "image": "https://d391b93f5f62d9c15f67142e43841acc.ipfscdn.io/ipfs/bafybeied5eb6ntaurnfg7ohfchxctm6skochpkqm7q62novbryp5rpxq5e/37.gif",
+  "token_id": "1",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "00-06-02-25-04.gif",
+  "description": "This NFT is my second Immutable zkEVM NFT",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "head",
+      "value": "00"
+    },
+    {
+      "trait_type": "face",
+      "value": "06"
+    },
+    {
+      "trait_type": "chest",
+      "value": "02"
+    },
+    {
+      "trait_type": "body",
+      "value": "25"
+    },
+    {
+      "trait_type": "background",
+      "value": "04"
+    }
+  ]
+}
