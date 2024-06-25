@@ -1,6 +1,6 @@
 {
     "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "description": "Immutable zkEVM Sample Project",
+    "image": "https://j-mq.github.io/sample-project-metadata/about-in-game-01.png",
+    "external_link": "https://nft-imm-test.asharastudios.com/"
 }
