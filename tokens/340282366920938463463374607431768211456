@@ -1,12 +1,12 @@
 {
-  "id": 1,
-  "image": "https://d391b93f5f62d9c15f67142e43841acc.ipfscdn.io/ipfs/bafybeied5eb6ntaurnfg7ohfchxctm6skochpkqm7q62novbryp5rpxq5e/37.gif",
-  "token_id": "1",
+  "id": 340282366920938463463374607431768211456,
+  "image": "https://d391b93f5f62d9c15f67142e43841acc.ipfscdn.io/ipfs/bafybeied5eb6ntaurnfg7ohfchxctm6skochpkqm7q62novbryp5rpxq5e/45.gif",
+  "token_id": "340282366920938463463374607431768211456",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "00-06-02-25-04.gif",
-  "description": "This NFT is my second Immutable zkEVM NFT",
+  "name": "00-06-02-18-02.gif",
+  "description": "This NFT is my first Immutable zkEVM NFT",
   "external_url": null,
   "attributes": [
     {
@@ -23,11 +23,11 @@
     },
     {
       "trait_type": "body",
-      "value": "25"
+      "value": "18"
     },
     {
       "trait_type": "background",
-      "value": "04"
+      "value": "02"
     }
   ]
 }
