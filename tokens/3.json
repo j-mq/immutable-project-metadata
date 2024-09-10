@@ -1,0 +1,32 @@
+{
+    "id": 3,
+    "image": "https://j-mq.github.io/immutable-project-metadata/tokens/00-08-02-19-04.gif",
+    "token_id": "3",
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "00-08-02-19-04.gif",
+    "description": "This NFT is my first Immutable zkEVM NFT",
+    "external_url": null,
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "00"
+        },
+        {
+            "trait_type": "face",
+            "value": "08"
+        },
+        {
+            "trait_type": "chest",
+            "value": "02"
+        },
+        {
+            "trait_type": "body",
+            "value": "19"
+        },
+        {
+            "trait_type": "background",
+            "value": "04"
+        }
+    ]
+}
